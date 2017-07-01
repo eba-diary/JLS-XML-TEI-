@@ -1,1 +1,1 @@
-# JLS-XML-TEI-
+# JLS xml-TEI
